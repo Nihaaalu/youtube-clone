@@ -182,3 +182,19 @@
     height: 32px;
     border-radius: 50%;
 }
+@media (max-width: 600px){
+    .middlesec{
+        margin-left: 10px;
+        margin-right: 0;
+    }
+    
+    .upload-icon{
+        margin-right: 0;
+        margin-left: 10px;
+    }
+    .searchbox{
+        visibility: 0;
+        width: 0;
+    }
+
+}
