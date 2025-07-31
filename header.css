@@ -200,9 +200,9 @@
 }
 
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
   .upload-icon { order: 1; }
-  .notifications-div { order: 2; }
-  .my-channel { order: 3; }
+  .notifications-div { order: 3; }
+  .my-channel { order: 2; }
   .apps-icon{ order: 4;}
 }
